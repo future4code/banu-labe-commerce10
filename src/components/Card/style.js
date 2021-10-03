@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const CardContainer = styled.div`
-   background-image: url("https://image.freepik.com/fotos-gratis/textura-de-papel-velha-fundo-de-papel-vintage_262663-426.jpg");
+   background-color: silver;
    margin: 5px;
    padding: 0 15px;
    border-radius: 5px;
@@ -18,4 +18,12 @@ height: auto;
 export const CardFooter = styled.h4`
    display: flex;
    justify-content: space-between;
+`
+
+export const CardCarrinho = styled.div `
+   margin: 5px;
+   padding: 0 15px;
+   border-radius: 5px;
+   text-align: center;
+   border-color: white;
 `

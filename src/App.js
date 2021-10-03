@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import proList from "./data/produtos.json"
 import { Header } from "./components/Header";
 import { Card } from "./components/Card";
-import { ListContainer } from "./style";
+import { Body, ListCarrinho, ListContainer, TextoCarrinho } from "./style";
 import { Filters } from "./components/Filters";
 import { Carrinho} from "./components/Carrinho";
 
@@ -63,7 +63,8 @@ export class App extends Component {
             sortingParameter={this.state.sortingParameter}
             order={this.state.order}
          />
-       
+
+         <Body>
          <ListContainer>
             {this.state.produtos
                .filter(produtos => {
@@ -87,7 +88,12 @@ export class App extends Component {
                   return <Card key={produtos.id} produtos={produtos} />
                })}
          </ListContainer>
-         <Carrinho/>
+         <ListCarrinho>
+            <TextoCarrinho>Carrinho</TextoCarrinho>
+            <TextoCarrinho>&#128722;</TextoCarrinho>
+               <Carrinho/>
+         </ListCarrinho>
+         </Body>
       </>
    }
 }

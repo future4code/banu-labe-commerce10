@@ -62,7 +62,7 @@
    {
       "id": "11",
       "name": "Sucata de foguete",
-      "value": 10,
+      "value": 11.55,
       "imageUrl" : "https://picsum.photos/200/200"
    },
    {
@@ -80,7 +80,7 @@
    {
       "id": "14",
       "name": "Brinquedo de foguete",
-      "value": 350,
+      "value": 349.99,
       "imageUrl" : "https://a-static.mlcdn.com.br/618x463/foguete-de-brinquedo-astronautas-exploradores-do-espaco-fun/magazineluiza/226746100/c12e51c59ba5af98cf23b27c6f9ea930.jpg"
    },
    {
