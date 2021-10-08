@@ -1,0 +1,100 @@
+[
+   {
+      "id": "01",
+      "name": "SPUTNIK V",
+      "value": 8000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/800px-Sputnik_asm.jpg"
+  },
+   {
+      "id": "02",
+      "name": "Apollo 11",
+      "value" : 10000.0,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/0/09/Launch_of_Apollo_11_%2814483749397%29.jpg"
+   },
+   {
+      "id": "03",
+      "name": "Explorer 1",
+      "value": 6000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/7/73/Explorer1.jpg"
+  },
+   {
+      "id": "04",
+      "name": "Explorer 3",
+      "value": 7500,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Explorer_III.jpg/220px-Explorer_III.jpg"
+  },
+   {
+      "id": "05",
+      "name": "Explorer 6",
+      "value" : 7800,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Explorer_6_paddles_up.jpg/250px-Explorer_6_paddles_up.jpg"
+   },
+   {
+      "id": "06",
+      "name": "TIROS-1",
+      "value": 3000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TIROS.jpg/800px-TIROS.jpg"
+  },
+  {
+      "id": "07",
+      "name": "Vostok 1",
+      "value": 18000,
+       "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vostok-1-musee-du-Bourget-P.jpg/800px-Vostok-1-musee-du-Bourget-P.jpg"
+   },
+   {
+      "id": "08",
+      "name": "Luna 10",
+      "value" : 1000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Luna_10_Musee_du_Bourget_P1010504.JPG/250px-Luna_10_Musee_du_Bourget_P1010504.JPG"
+   },
+   {
+      "id": "09",
+      "name": "Mariner 9",
+      "value": 15000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mariner10.gif/300px-Mariner10.gif"
+   },
+   {
+      "id": "10",
+      "name": "Galileo",
+      "value": 36000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/300px-Artwork_Galileo-Io-Jupiter.JPG"
+   },
+   {
+      "id": "11",
+      "name": "Sucata de foguete",
+      "value": 11.55,
+      "imageUrl" : "https://picsum.photos/200/200"
+   },
+   {
+      "id": "12",
+      "name": "Cassini",
+      "value": 35000,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/300px-Cassini_Saturn_Orbit_Insertion.jpg"
+   },
+   {
+      "id": "13",
+      "name": "V2",
+      "value": 1500,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fus%C3%A9e_V2.jpg/250px-Fus%C3%A9e_V2.jpg"
+   }, 
+   {
+      "id": "14",
+      "name": "Brinquedo de foguete",
+      "value": 349.99,
+      "imageUrl" : "https://a-static.mlcdn.com.br/618x463/foguete-de-brinquedo-astronautas-exploradores-do-espaco-fun/magazineluiza/226746100/c12e51c59ba5af98cf23b27c6f9ea930.jpg"
+   },
+   {
+      "id": "15",
+      "name": "Sonho de foguete",
+      "value": 0,
+      "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Melies_color_Voyage_dans_la_lune.jpg/250px-Melies_color_Voyage_dans_la_lune.jpg"
+   },
+   {
+      "id": "16",
+      "name": "Foguete Brasileiro",
+      "value": 1780,
+      "imageUrl" : "https://olhardigital.com.br/wp-content/uploads/2019/09/20190913081146.jpg"
+   }
+
+
+]
